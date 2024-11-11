@@ -1,0 +1,8 @@
+DAWN-pytorch\extract_init_states\configs
+
+https://github.com/cleardusk/3DDFA_V2/tree/master/configs
+https://github.com/cleardusk/3DDFA_V2/blob/master/configs/bfm_noneck_v3.pkl
+
+
+ReadME (Download)
+C:\ai\DAWN-pytorch\extract_init_states\weights
